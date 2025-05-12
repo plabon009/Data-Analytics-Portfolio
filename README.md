@@ -14,7 +14,7 @@ The analysis is based on a sample sales dataset containing the following informa
 * Regional data
 * Date information
 
-The dataset collected from my teacher to anaylize and do these specific projects.
+The dataset are collected from my teacher to anaylize and do these specific projects.
 
 ## Tools Used
 
