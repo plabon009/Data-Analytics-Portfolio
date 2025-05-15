@@ -33,3 +33,6 @@ The dataset are collected from my teacher to anaylize and do these specific proj
 * **Sales Segmentation:** The analysis of the sales segments helps to comprehend purchasing behaviors of customers.
 
 * **Sales Trends:** Sales show a seasonal pattern, with peak sales occurring in specific months.
+-------------------------------------------------------------------------------------------------------------------
+
+## **My Tableau Projects:** https://public.tableau.com/app/profile/abu.syed4030
