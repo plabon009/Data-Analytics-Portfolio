@@ -34,5 +34,5 @@ The dataset are collected from my teacher to anaylize and do these specific proj
 
 * **Sales Trends:** Sales show a seasonal pattern, with peak sales occurring in specific months.
 -------------------------------------------------------------------------------------------------------------------
-
+## **Check this blog about my learning journey:** https://medium.com/@plabonsayed/mastering-data-visualization-my-journey-with-power-bi-and-tableau-2eeebfba543b
 ## **My Tableau Projects:** https://public.tableau.com/app/profile/abu.syed4030
